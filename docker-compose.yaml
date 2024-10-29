@@ -1,0 +1,12 @@
+services:
+  v3ts:
+    build:
+      context: .
+      dockerfile: dev.Dockerfile
+    ports:
+      - "5173:5173"
+    volumes:
+      - .:/app
+    tty: true
+    #command: npm i && npm run dev -- --host
+    command: tail -F anything

@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/vite-env.d.ts","./src/router/index.ts","./src/store/index.ts","./src/store/postStore.ts","./src/types/Post.ts","./src/types/PostData.ts","./src/App.vue","./src/components/PostCard.vue","./src/components/PostForm.vue","./src/components/PostList.vue"],"errors":true,"version":"5.6.3"}
