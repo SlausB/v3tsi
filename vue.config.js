@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: process.env.NODE_ENV === 'production' ? '/v3tsi/' : '/',
+    publicPath: '/v3tsi/',
 };
